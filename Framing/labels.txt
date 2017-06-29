@@ -1,0 +1,5 @@
+0:Close Up
+1:Extreme Close Up
+2:Extreme Long Shot
+3:Long Shot
+4:Medium
