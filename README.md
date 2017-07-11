@@ -19,11 +19,11 @@ Currently exploring taxonomies for Framing, Shot Type, and Shot Angle. I want to
 So far, I have data for Framing, need more data for Type, and have yet to delve into Angle. Current Taxonomy breakdown as follows: 
 
 ### Framing
-* Close Up
 * Extreme Close Up
-* Extreme Long Shot
-* Long Shot
+* Close Up
 * Medium
+* Long Shot
+* Extreme Long Shot
 
 ## Type
 * Master
@@ -33,6 +33,7 @@ So far, I have data for Framing, need more data for Type, and have yet to delve 
 ## Angle
 * Aerial
 * High
+* Straight
 * Low
 * Tilted
 
